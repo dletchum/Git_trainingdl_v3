@@ -1,2 +1,4 @@
 with https://www.youtube.com/watch?v=JAALTSzLx-o help, asking for password/token issue seems to be fixed. but need to text couple of times to ensure. 
 pull worked without password. now push to test...
+
+error from above push
