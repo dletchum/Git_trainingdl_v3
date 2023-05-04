@@ -3,3 +3,7 @@ pull worked without password. now push to test...
 
 error from above push
 still not working
+finally had to follow, https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git to resolve the below issue
+error: src refspec master does not match any.  
+error: failed to push some refs to 'ssh://xxxxx.com/project.git'
+
