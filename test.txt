@@ -1,5 +1,7 @@
 adding a line to test linuxmint-4 token
 
+pushing from desktop worked with the created token for the password. now trying to pull to see the result
+
 file created on Github to test pull
 
 change text.txt file after token and ssh key creation
