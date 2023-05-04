@@ -9,3 +9,4 @@ error: failed to push some refs to 'ssh://xxxxx.com/project.git'
 
 but still need to use git push origin HEAD:master to push
 
+now using git push origin main (instead of master) and testing
