@@ -7,3 +7,5 @@ finally had to follow, https://stackoverflow.com/questions/4181861/message-src-r
 error: src refspec master does not match any.  
 error: failed to push some refs to 'ssh://xxxxx.com/project.git'
 
+but still need to use git push origin HEAD:master to push
+
